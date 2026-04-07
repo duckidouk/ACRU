@@ -1,0 +1,28 @@
+{
+	"AtmosphericCO2": {
+		"year": "2024",
+		"month": "2",
+		"day": "7",
+		"cycle": "423.09",
+		"trend": "421.20"
+	},
+	"AvgSurfaceTemp": {
+		"time": "2024.04",
+		"station": "1.41",
+		"land": "1.21"
+	},
+	"AtmosphericMethane": {
+		"date": "2023.10",
+		"average": "1933.46",
+		"trend": "1927.84",
+		"averageUnc": "-9.99",
+		"trendUnc": "-9.99"
+	},
+	"AtmosphericN2O": {
+		"date": "2023.10",
+		"average": "336.97",
+		"trend": "337.07",
+		"averageUnc": "-9.99",
+		"trendUnc": "-9.99"
+	}
+}

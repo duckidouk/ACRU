@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "params">
+	<slot number = "1">
+		<pattr name = "u844005323" value = "2" />
+		<pattr name = "u328011479" value = "2" />
+		<pattr name = "u328011479[1]" value = "2" />
+		<pattr name = "u692010751" value = "400" />
+		<pattr name = "u692010751[1]" value = "400" />
+		<pattr name = "u494005045" value = "200" />
+		<pattr name = "float_pink_control" value = "0.04" />
+		<pattr name = "flonum[10]" value = "-0." />
+		<pattr name = "flonum[6]" value = "5.557313" />
+		<pattr name = "flonum[7]" value = "1388.514669" />
+		<pattr name = "flonum[8]" value = "-0.01" />
+		<pattr name = "flonum[9]" value = "14." />
+		<pattr name = "gainarp" value = "53" />
+		<pattr name = "gainpink" value = "23" />
+		<pattr name = "gainrect" value = "53" />
+		<pattr name = "gainsiren" value = "81" />
+		<pattr name = "gaintri" value = "61" />
+		<pattr name = "mc.live.gainarp" value = "-29.412648" />
+		<pattr name = "multiarp" value = "0.675 0.291667 0.466667 0. 0. 0. 0. 0.033333" />
+		<patcher name = "bp.Chorus">
+			<pattr name = "Center" value = "500." />
+			<pattr name = "Rate" value = "2." />
+			<pattr name = "Regen" value = "0.5" />
+			<pattr name = "Width" value = "20." />
+			<pattr name = "bypass" value = "0." />
+		</patcher>
+		<patcher name = "bp.Chorus[1]">
+			<pattr name = "Center" value = "500." />
+			<pattr name = "Rate" value = "2." />
+			<pattr name = "Regen" value = "0.5" />
+			<pattr name = "Width" value = "20." />
+			<pattr name = "bypass" value = "0." />
+		</patcher>
+		<patcher name = "patcher[1]">
+			<patcher name = "bp.GigaverbArp">
+				<pattr name = "Damp" value = "0.7" />
+				<pattr name = "Dry" value = "1." />
+				<pattr name = "Early" value = "0.25" />
+				<pattr name = "Regen" value = "0.5" />
+				<pattr name = "Size" value = "75." />
+				<pattr name = "Spread" value = "23." />
+				<pattr name = "Tail" value = "0.25" />
+				<pattr name = "Time" value = "11." />
+				<pattr name = "bypass" value = "0." />
+			</patcher>
+			<patcher name = "bp.Chorus[2]">
+				<pattr name = "Center" value = "500." />
+				<pattr name = "Rate" value = "2." />
+				<pattr name = "Regen" value = "0.5" />
+				<pattr name = "Width" value = "20." />
+				<pattr name = "bypass" value = "0." />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[2]">
+			<patcher name = "bp.LFO2">
+				<pattr name = "FreqRate" value = "0.6" />
+				<pattr name = "Mute" value = "0." />
+				<pattr name = "Phase-Inversion" value = "0." />
+				<pattr name = "SpectraLFOPhase[1]" value = "0." />
+				<pattr name = "SpectraShape" value = "1." />
+				<pattr name = "SyncRate" value = "5." />
+				<pattr name = "TimeMode" value = "1." />
+				<pattr name = "re-trigger" value = "0." />
+			</patcher>
+		</patcher>
+	</slot>
+	<slot number = "24">
+		<pattr name = "u844005323" value = "2" />
+		<pattr name = "u328011479" value = "2" />
+		<pattr name = "u328011479[1]" value = "2" />
+		<pattr name = "u692010751" value = "400" />
+		<pattr name = "u692010751[1]" value = "400" />
+		<pattr name = "u494005045" value = "400" />
+		<pattr name = "float_pink_control" value = "0.04" />
+		<pattr name = "flonum[10]" value = "0." />
+		<pattr name = "flonum[6]" value = "0.521489" />
+		<pattr name = "flonum[7]" value = "0." />
+		<pattr name = "flonum[8]" value = "0.01" />
+		<pattr name = "flonum[9]" value = "6." />
+		<pattr name = "gainarp" value = "0" />
+		<pattr name = "gainpink" value = "0" />
+		<pattr name = "gainrect" value = "0" />
+		<pattr name = "gainsiren" value = "0" />
+		<pattr name = "gaintri" value = "0" />
+		<pattr name = "mc.live.gainarp" value = "-70." />
+		<pattr name = "multiarp" value = "0.675 0.291667 0.466667 0. 0. 0. 0. 0.033333" />
+		<patcher name = "bp.Chorus">
+			<pattr name = "Center" value = "500." />
+			<pattr name = "Rate" value = "2." />
+			<pattr name = "Regen" value = "0.5" />
+			<pattr name = "Width" value = "20." />
+			<pattr name = "bypass" value = "0." />
+		</patcher>
+		<patcher name = "bp.Chorus[1]">
+			<pattr name = "Center" value = "500." />
+			<pattr name = "Rate" value = "2." />
+			<pattr name = "Regen" value = "0.5" />
+			<pattr name = "Width" value = "20." />
+			<pattr name = "bypass" value = "0." />
+		</patcher>
+		<patcher name = "patcher[1]">
+			<patcher name = "bp.GigaverbArp">
+				<pattr name = "Damp" value = "0.7" />
+				<pattr name = "Dry" value = "1." />
+				<pattr name = "Early" value = "0.25" />
+				<pattr name = "Regen" value = "0.5" />
+				<pattr name = "Size" value = "75." />
+				<pattr name = "Spread" value = "23." />
+				<pattr name = "Tail" value = "0.25" />
+				<pattr name = "Time" value = "11." />
+				<pattr name = "bypass" value = "0." />
+			</patcher>
+			<patcher name = "bp.Chorus[2]">
+				<pattr name = "Center" value = "500." />
+				<pattr name = "Rate" value = "2." />
+				<pattr name = "Regen" value = "0.5" />
+				<pattr name = "Width" value = "20." />
+				<pattr name = "bypass" value = "0." />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[2]">
+			<patcher name = "bp.LFO2">
+				<pattr name = "FreqRate" value = "0.6" />
+				<pattr name = "Mute" value = "0." />
+				<pattr name = "Phase-Inversion" value = "0." />
+				<pattr name = "SpectraLFOPhase[1]" value = "0." />
+				<pattr name = "SpectraShape" value = "1." />
+				<pattr name = "SyncRate" value = "5." />
+				<pattr name = "TimeMode" value = "1." />
+				<pattr name = "re-trigger" value = "0." />
+			</patcher>
+		</patcher>
+	</slot>
+</pattrstorage>
+
