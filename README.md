@@ -4,14 +4,18 @@
 
 ---
 
-- - - - Concept
+- - Concept
+    
+<img width="713" height="643" alt="Screenshot 2026-04-07 at 19 53 55" src="https://github.com/user-attachments/assets/e99f940a-2c24-42f3-9c67-d08221b09cec" />
 
 A sound art work that responds live to changes in key environmental indicators, thereby mapping
 climate change and environmental collapse onto sound.
 
 Four key environmental indicators — atmospheric CO₂, surface temperature, methane, and nitrous oxide; are fetched in real time from scientific APIs and fed into a Max/MSP patch. The patch runs a synthesiser and a 3D animated sphere that respond to those values.
 
-When the planet is in balance, the music is in harmony. As the indicators worsen, the notes drift out of tune, the textures thicken, and the sphere deforms. At no point is there a human performer, it is the Earth that performs itself.
+When the planet is in balance, the music is in harmony. As the indicators worsen, the notes drift out of tune, the textures thicken, and the sphere deforms.
+
+<img width="722" height="718" alt="Screenshot 2026-04-07 at 19 54 20" src="https://github.com/user-attachments/assets/b47ca5bf-2bc5-4c34-ab15-e83e321f023a" />
 
 ---
 
@@ -141,8 +145,8 @@ Max interpolates between these as the climate values update, creating smooth tra
 ### Prerequisites
 - [Max/MSP 8+](https://cycling74.com/) with Jitter
 - Node.js ≥ 18
-- RapidAPI key (already in scripts — rotate if expired)
-
+- RapidAPI keys
+  
 ### Running the data fetcher
 
 ```bash
