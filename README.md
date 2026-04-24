@@ -11,7 +11,7 @@
 A sound art work that responds live to changes in key environmental indicators, thereby mapping
 climate change and environmental collapse onto sound.
 
-Four key environmental indicators — atmospheric CO₂, surface temperature, methane, and nitrous oxide; are fetched in real time from scientific APIs and fed into a Max/MSP patch. The patch runs a synthesiser and a 3D animated sphere that respond to those values.
+Four key environmental indicators: atmospheric CO₂, surface temperature, methane, and nitrous oxide; are fetched in real time from scientific APIs and fed into a Max/MSP patch. The patch runs a synthesiser and a 3D animated sphere that respond to those values.
 
 When the planet is in balance, the music is in harmony. As the indicators worsen, the notes drift out of tune, the textures thicken, and the sphere deforms.
 
@@ -39,7 +39,7 @@ Two Node.js scripts pull live climate readings via RapidAPI:
 | Atmospheric Methane (CH₄) | ppb | Monthly |
 | Atmospheric N₂O | ppb | Monthly |
 
-The full-history script also computes `trendChange` (step-by-step delta) and `totalTrendChange` (change since a defined start date) for CO₂, methane, and N₂O — these are what drive the expressive range of the patch.
+The full history script also computes `trendChange` (step-by-step delta) and `totalTrendChange` (change since a defined start date) for CO₂, methane, and N₂O.. They drive the full expressive range of the patch).
 
 ---
 
@@ -63,7 +63,7 @@ The Max patch runs four parallel sound generators. Each is conceptually mapped t
 4. Pentatonic      8. Lydian
 ```
 
-As climate values shift, `scaley` changes — moving the arp from consonant (major/pentatonic) toward tension-laden modal scales (Phrygian, Locrian), creating a slow drift from harmony into dissonance.
+As climate values shift, `scaley` changes. It moves the arp from consonant (major/pentatonic) toward more tensed modal scales (Phrygian, Locrian), essentially it is a slow drift from harmony into dissonance.
 
 **Effects chain:**
 - `mc.comb~` — comb filter / resonance
@@ -121,7 +121,7 @@ The `pattrstorage params` object stores named snapshots of the entire synth stat
 
 Max interpolates between these as the climate values update, creating smooth transitions rather than abrupt changes.
 
----
+------------------------------------------------------------------------------------------------------------------------
 
 ## File Structure
 
@@ -138,16 +138,16 @@ Max interpolates between these as the climate values update, creating smooth tra
 └── params2.json                  # Synth preset bank (v2)
 ```
 
----
+------------------------------------------------------------------------------------------------------------------------------
 
-## Setup
+# Setup
 
-### Prerequisites
-- [Max/MSP 8+](https://cycling74.com/) with Jitter
-- Node.js ≥ 18
-- RapidAPI keys
+# Prerequisites
+(i) [Max/MSP 8+](https://cycling74.com/) with Jitter
+(ii) Node.js ≥ 18
+(iii) RapidAPI keys
   
-### Running the data fetcher
+# Running the data fetcher
 
 ```bash
 npm install
@@ -155,7 +155,7 @@ node fetch_api_last_entry.js   # quick: just latest values
 node fetch_api_data.js         # full: historical + deltas (slower, rate-limited)
 ```
 
-### Running the patch
+# Running the patch
 
 1. Open `synth_audiov27_160124_.maxpat` in Max
 2. Load the appropriate `params.json` via the `pattrstorage` object
@@ -163,9 +163,9 @@ node fetch_api_data.js         # full: historical + deltas (slower, rate-limited
 4. Click connect / start transport
 5. The `jit.window meduza` will open at 1080×1080
 
----
+------------------------------------------------------------------------------------------------------------------------------
 
-## Current Data Snapshot *(as of last fetch)*
+# Current Data Snapshot *(as of last fetch)*
 
 ```
 CO₂           423.09 ppm  (trend: 421.20)   — Feb 7 2024
@@ -174,14 +174,17 @@ Methane       1933.46 ppb (trend: 1927.84)  — Oct 2023
 N₂O           336.97 ppb  (trend: 337.07)   — Oct 2023
 ```
 
----
+------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
-## Credits
+# Credits
 
 **Concept** — ACRB collective  
 **Technical execution** — Duc Peterman  
 
-
----
+------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 
