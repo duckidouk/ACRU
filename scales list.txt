@@ -1,8 +1,0 @@
-1, refer single;
-2, refer minor;
-3, refer majorscale;
-4, refer pentatonic;
-5, refer hirajoshi;
-6, refer locrian;
-7, refer phrygian;
-8, Lydian;
