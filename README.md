@@ -1,3 +1,5 @@
+
+
 # ACRU — Audio Visual Installation
 
 > *A live audio-visual work that maps planetary collapse.*
@@ -6,8 +8,21 @@
 
 - - Concept
 
-![demo](ASSETS/glitchy_loop_crop.mp4)
+
+
 <img width="713" height="643" alt="Screenshot 2026-04-07 at 19 53 55" src="https://github.com/user-attachments/assets/e99f940a-2c24-42f3-9c67-d08221b09cec" />
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/522189d3-1b1a-4a98-8157-b2be76a65565
+
+
+
+
 
 A sound art work that responds live to changes in key environmental indicators, thereby mapping
 climate change and environmental collapse onto sound.
