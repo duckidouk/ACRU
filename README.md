@@ -5,7 +5,8 @@
 ---
 
 - - Concept
-    
+
+![demo](ASSETS/glitchy_loop_crop.mp4)
 <img width="713" height="643" alt="Screenshot 2026-04-07 at 19 53 55" src="https://github.com/user-attachments/assets/e99f940a-2c24-42f3-9c67-d08221b09cec" />
 
 A sound art work that responds live to changes in key environmental indicators, thereby mapping
