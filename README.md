@@ -9,8 +9,7 @@
 - - Concept
 
 
-[Screenshot of The Earth when the environmental factors are stable]
-<img width="713" height="643" alt="Screenshot 2026-04-07 at 19 53 55" src="https://github.com/user-attachments/assets/e99f940a-2c24-42f3-9c67-d08221b09cec" />
+
 
 
 
@@ -19,12 +18,14 @@
 A sound art work that responds live to changes in key environmental indicators, thereby mapping
 climate change and environmental collapse onto sound.
 
+*[Screenshot of The Earth when the environmental factors are stable]*
+<img width="713" height="643" alt="Screenshot 2026-04-07 at 19 53 55" src="https://github.com/user-attachments/assets/e99f940a-2c24-42f3-9c67-d08221b09cec" />
+
 Four key environmental indicators: atmospheric CO₂, surface temperature, methane, and nitrous oxide; are fetched in real time from scientific APIs and fed into a Max/MSP patch. The patch runs a synthesiser and a 3D animated sphere that respond to those values.
 
 When the planet is in balance, the music is in harmony. As the indicators worsen, the notes drift out of tune, the textures thicken, and the sphere deforms.
 
-
-[Screenshot of The Earth when the environmental are terribly unstable]
+*[Screenshot of The Earth when the environmental are terribly unstable]*
 <img width="722" height="718" alt="Screenshot 2026-04-07 at 19 54 20" src="https://github.com/user-attachments/assets/b47ca5bf-2bc5-4c34-ab15-e83e321f023a" />
 
 ---
@@ -178,10 +179,10 @@ node fetch_api_data.js         # full: historical + deltas (slower, rate-limited
 # Current Data Snapshot *(as of last fetch)*
 
 ```
-CO₂           423.09 ppm  (trend: 421.20)   — Feb 7 2024
-Surface Temp  +1.41 °C anomaly              — 2024.04
-Methane       1933.46 ppb (trend: 1927.84)  — Oct 2023
-N₂O           336.97 ppb  (trend: 337.07)   — Oct 2023
+CO₂           423.09 ppm  (trend: 421.20)   
+Surface Temp  +1.41 °C anomaly             
+Methane       1933.46 ppb (trend: 1927.84)  
+N₂O           336.97 ppb  (trend: 337.07)   
 ```
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -190,7 +191,7 @@ N₂O           336.97 ppb  (trend: 337.07)   — Oct 2023
 
 # Credits
 
-**Concept** — ACRB collective  
+**Concept** - ACRB collective  
 **Technical execution** — Duc Peterman  
 
 ------------------------------------------------------------------------------------------------------------------------------
