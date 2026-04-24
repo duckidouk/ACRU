@@ -9,16 +9,8 @@
 - - Concept
 
 
-
+[Screenshot of The Earth when the environmental factors are stable]
 <img width="713" height="643" alt="Screenshot 2026-04-07 at 19 53 55" src="https://github.com/user-attachments/assets/e99f940a-2c24-42f3-9c67-d08221b09cec" />
-
-
-
-
-
-
-
-https://github.com/user-attachments/assets/522189d3-1b1a-4a98-8157-b2be76a65565
 
 
 
@@ -31,6 +23,8 @@ Four key environmental indicators: atmospheric CO₂, surface temperature, metha
 
 When the planet is in balance, the music is in harmony. As the indicators worsen, the notes drift out of tune, the textures thicken, and the sphere deforms.
 
+
+[Screenshot of The Earth when the environmental are terribly unstable]
 <img width="722" height="718" alt="Screenshot 2026-04-07 at 19 54 20" src="https://github.com/user-attachments/assets/b47ca5bf-2bc5-4c34-ab15-e83e321f023a" />
 
 ---
