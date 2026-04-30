@@ -25,8 +25,13 @@ Four key environmental indicators: atmospheric CO₂, surface temperature, metha
 
 When the planet is in balance, the music is in harmony. As the indicators worsen, the notes drift out of tune, the textures thicken, and the sphere deforms.
 
-*[Screenshot of The Earth when the environmental are terribly unstable]*
-<img width="722" height="718" alt="Screenshot 2026-04-07 at 19 54 20" src="https://github.com/user-attachments/assets/b47ca5bf-2bc5-4c34-ab15-e83e321f023a" />
+*[EXAMPLE The Earth when the environmentals are terribly unstable]*
+
+https://github.com/user-attachments/assets/b49dfd04-ff81-451f-a470-f33a69316736
+
+
+
+
 
 ---
 
