@@ -1,5 +1,11 @@
 
 
+https://github.com/user-attachments/assets/8d34376e-1bc9-4a9c-9e86-1122e5fd5920
+
+
+
+
+
 # ACRU — Audio Visual Installation
 
 > *A live audio-visual work that maps planetary collapse.*
@@ -9,23 +15,19 @@
 - - Concept
 
 
-
-
-
-
-
-
 A sound art work that responds live to changes in key environmental indicators, thereby mapping
 climate change and environmental collapse onto sound.
 
-*[Screenshot of The Earth when the environmental factors are stable]*
-<img width="713" height="643" alt="Screenshot 2026-04-07 at 19 53 55" src="https://github.com/user-attachments/assets/e99f940a-2c24-42f3-9c67-d08221b09cec" />
+# *[EXAMPLE of The Earth when the environmental factors are stable]*
+
+https://github.com/user-attachments/assets/7721ba05-52e1-4021-b272-9aac38a409a4
+
 
 Four key environmental indicators: atmospheric CO₂, surface temperature, methane, and nitrous oxide; are fetched in real time from scientific APIs and fed into a Max/MSP patch. The patch runs a synthesiser and a 3D animated sphere that respond to those values.
 
 When the planet is in balance, the music is in harmony. As the indicators worsen, the notes drift out of tune, the textures thicken, and the sphere deforms.
 
-*[EXAMPLE The Earth when the environmentals are terribly unstable]*
+# *[EXAMPLE The Earth when the environmentals are terribly unstable]*
 
 https://github.com/user-attachments/assets/b49dfd04-ff81-451f-a470-f33a69316736
 
